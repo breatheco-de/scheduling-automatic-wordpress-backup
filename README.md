@@ -1,6 +1,6 @@
+<!-- hide -->
 # Scheduling automatic Wordpress backup
 
-<!-- hide -->
 > By [@arnaldoperez](https://github.com/arnaldoperez) and [other contributors](https://github.com/4GeeksAcademy/scheduling-automatic-wordpress-backup/graphs/contributors) at [4Geeks Academy](https://4geeksacademy.co/)
 
 ![last commit](https://img.shields.io/github/last-commit/4geeksacademy/scheduling-automatic-wordpress-backup)
@@ -9,13 +9,18 @@
 
 <!-- endhide -->
 
+
 ## 🛑 Before you start (Requirements)
 
 We are assuming you already deployed a [WordPress website running on Apache (LAMP)](https://4geeks.com/interactive-exercise/deploying-wordpress-site-debian). If you don't please star tby doing so and then you can come back to these next steps on implementing a backup process and best practices.
 
+<onlyfor saas="false" withBanner="false">
+  
 ## 🌱 How to start this project?
 
 Open the computer that contains your WordPress running on Apache and continue with the instructions below.
+
+</onlyfor>
 
 ## 📝 Instructions
 
